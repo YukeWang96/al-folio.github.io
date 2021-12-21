@@ -17,7 +17,7 @@ nav: true
 ***QGTC: Accelerating Quantized GNN via GPU Tensor Core*** <br/>
 *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/PPoPP22_QGTC.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L101-L106)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L101-L106)
 
 
 + <b >[CIKM-2021 (Spotlight)]</b>
@@ -25,7 +25,7 @@ nav: true
 ***An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks*** <br/>
 *ACM International Conference on Information and Knowledge Management.*<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/CIKM_2021_IF.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L94-L99)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L94-L99)
 [<b style="color:#a31503">[**Slides**]</b>](https://storage.googleapis.com/yuke_profile/yuke_cikm'21.pdf)
 [<b style="color:#a31503">[**Video**]</b>](https://youtu.be/hJzceXXthIY)
 
@@ -34,7 +34,7 @@ nav: true
 ***APNN-TC: Accelerating Arbitrary Precision Neural Networks on Ampere GPU Tensor Cores*** <br/>
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis.*<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/SC_2021_MixedPrecisionProject.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L86-L91)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L86-L91)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/BoyuanFeng/APNN-TC.git)
 
 + <b >[OSDI-2021]</b>
@@ -42,7 +42,7 @@ nav: true
 ***GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs*** <br/>
 *USENIX Symposium on Operating Systems Design and Implementation*.<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/OSDI_2021_GNNAdvisor.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L1-L6)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L1-L6)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/OSDI21_AE)
 [<b style="color:#a31503">[**Slides**]</b>](https://storage.googleapis.com/yuke_profile/osdi21_slides_wang.pdf)
 [<b style="color:#a31503">[**Video**]</b>](https://youtu.be/K8Q7Dgko0Gs)
@@ -52,7 +52,7 @@ Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 ***Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew.*** <br/>
 *USENIX Annual Technical Conference*.<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/ATC21-Palleon.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L71-L76)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L71-L76)
 
 
 + <b >[CCGrid-2021]</b> 
@@ -63,7 +63,7 @@ Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 *IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing*.
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/CCGrid_2021_TiAcc.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L8-L13)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L8-L13)
 [<b style="color:#a31503">[**Slides**]</b>](https://storage.googleapis.com/yuke_profile/CCGrid21-YukeWang.pdf)
 
 + <b >[ICASSP-2021]</b> 
@@ -72,7 +72,7 @@ Boyuan Feng, **Yuke Wang**, Yufei Ding. <br/>
 <br/>
 *IEEE International Conference on Acoustics, Speech, Signal Processing*.<br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/ICASSP_2021.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L15-L20)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L15-L20)
 
 
 + <b >[AAAI-2021]</b> 
@@ -82,7 +82,7 @@ Boyuan Feng, **Yuke Wang**, Yufei Ding. <br/>
 *AAAI Conference on Artificial Intelligence*.
 [<b style="color:#a31503"><br/>
 [**Paper**]</b>](https://storage.googleapis.com/yuke_profile/AAAI_2021_GNN_UAG.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L22-L27)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L22-L27)
 
 
 
@@ -93,7 +93,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*.
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/PPoPP2021.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L29-L34)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L29-L34)
 
 
 
@@ -105,7 +105,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 *IEEE International Parallel & Distributed Processing Symposium*.
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/IPDPS_2021_DSXplore.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L36-L41)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L36-L41)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/DSXplore.git)
 [<b style="color:#a31503">[**Slides**]</b>](https://storage.googleapis.com/yuke_profile/ipdps21-Wang.pdf)
 [<b style="color:#a31503">[**Video**]</b>](https://youtu.be/wvEexU_glPc)
@@ -117,7 +117,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/TCAD21_STPAcc.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L78-L83)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L78-L83)
 
 + <b >[TCAD-2021] </b> 
 Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, Lei Deng, Yufei Ding, Zidong Du, Yunji Chen, Yuan Xie. <br/>
@@ -125,7 +125,7 @@ Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mi
 *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://arxiv.org/pdf/2009.12495.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L64-L69)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L64-L69)
 
 + <b >[ICTAI-2020] </b> \*Boyuan Feng, \***Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding.  \*: equal contribution.<br/>
 ***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization.***
@@ -133,7 +133,7 @@ Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mi
 *International Conference on Tools with Artificial Intelligence*.
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/ICTAI_2020.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L43-L48)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L43-L48)
 
 + <b >[ICML-2020] </b> 
 Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. <br/>
@@ -141,7 +141,7 @@ Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Y
 *International Conference on Machine Learning*.
 <br/>
 [<b style="color:#a31503">[**Paper**]</b>](http://proceedings.mlr.press/v119/liu20c/liu20c.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L50-L55)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L50-L55)
 
 
 + <b >[FCCM-2019] </b> 
@@ -151,6 +151,6 @@ Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Y
 *IEEE Symposium on Field-Programmable Custom Computing Machines*.
 <br/>
 [<b style="color:#a31503">[**Poster**]</b>](https://arxiv.org/pdf/1905.09345.pdf)
-[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L57-L62)
+[<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L57-L62)
 
 </div>
