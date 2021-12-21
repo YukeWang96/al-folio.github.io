@@ -8,6 +8,7 @@ nav: false
 ---
 
 <div class="publications">
+</div>
 <!-- {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
@@ -153,4 +154,3 @@ Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Y
 [<b style="color:#a31503">[**Poster**]</b>](https://arxiv.org/pdf/1905.09345.pdf)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L57-L62)
 
-</div>
