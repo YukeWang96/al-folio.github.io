@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:
 
 profile:
   align: right
@@ -10,9 +10,9 @@ profile:
   address: >
     <p>Santa Barbara, CA, USA</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -59,7 +59,7 @@ Yuke's research interests include high-performance computing and deep learning a
 + [01/2019] Teaching Assistant of CS16 (C++ Programming Language) 				
 
 ## Award
-
+----------
 + [11/2021] 2022-2023 NVIDIA Graduate Fellowship
 + [10/2021] 2021 ACM PACT Student Research Competition (First Prize Winner)
 + [09/2021] 2021 SIGIR Student Travel Grant

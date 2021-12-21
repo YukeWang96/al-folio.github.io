@@ -7,16 +7,12 @@ years: [2021, 2020, 2019]
 nav: true
 ---
 
-<!-- <div class="publications">
-
-{% for y in page.years %}
+<div class="publications">
+<!-- {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div> -->
-
-+ <b style="color:blue">[PPoPP-2022]</b>
+{% endfor %} -->
++ <b >[PPoPP-2022]</b>
 **\*Yuke Wang**, \*Boyuan Feng, Yufei Ding. \*: equal contribution<br/>
 ***QGTC: Accelerating Quantized GNN via GPU Tensor Core*** <br/>
 *ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*<br/>
@@ -24,7 +20,7 @@ nav: true
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L101-L106)
 
 
-+ <b style="color:blue">[CIKM-2021 (Spotlight)]</b>
++ <b >[CIKM-2021 (Spotlight)]</b>
 **Yuke Wang**, Boyuan Feng, Xueqiao Peng, Yufei Ding. <br/>
 ***An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks*** <br/>
 *ACM International Conference on Information and Knowledge Management.*<br/>
@@ -33,7 +29,7 @@ nav: true
 [<b style="color:#a31503">[**Slides**]</b>](https://storage.googleapis.com/yuke_profile/yuke_cikm'21.pdf)
 [<b style="color:#a31503">[**Video**]</b>](https://youtu.be/hJzceXXthIY)
 
-+ <b style="color:blue">[SC-2021]</b>
++ <b >[SC-2021]</b>
 \*Boyuan Feng, **\*Yuke Wang**, Tong Geng, Ang Li, Yufei Ding. \*: equal contribution<br/>
 ***APNN-TC: Accelerating Arbitrary Precision Neural Networks on Ampere GPU Tensor Cores*** <br/>
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis.*<br/>
@@ -41,7 +37,7 @@ nav: true
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L86-L91)
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/BoyuanFeng/APNN-TC.git)
 
-+ <b style="color:blue">[OSDI-2021]</b>
++ <b >[OSDI-2021]</b>
 **Yuke Wang**, Boyuan Feng, Gushu Li, Shuangchen Li, Lei Deng, Yuan Xie, Yufei Ding.<br/>
 ***GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs*** <br/>
 *USENIX Symposium on Operating Systems Design and Implementation*.<br/>
@@ -51,7 +47,7 @@ nav: true
 [<b style="color:#a31503">[**Slides**]</b>](https://storage.googleapis.com/yuke_profile/osdi21_slides_wang.pdf)
 [<b style="color:#a31503">[**Video**]</b>](https://youtu.be/K8Q7Dgko0Gs)
 
-+ <b style="color:blue">[USENIX ATC-2021]</b>
++ <b >[USENIX ATC-2021]</b>
 Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 ***Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew.*** <br/>
 *USENIX Annual Technical Conference*.<br/>
@@ -59,7 +55,7 @@ Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L71-L76)
 
 
-+ <b style="color:blue">[CCGrid-2021]</b> 
++ <b >[CCGrid-2021]</b> 
 **Yuke Wang**, Boyuan Feng, Gushu	Li,	Georgios Tzimpragos, Lei Deng, Yuan Xie, Yufei Ding.
 <br/>
 ***TiAcc: Triangle-inequality based Hardware Accelerator for K-means on FPGAs.*** 
@@ -70,7 +66,7 @@ Boyuan Feng, **Yuke Wang**, Gushu Li, Yuan Xie, Yufei Ding.<br/>
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L8-L13)
 [<b style="color:#a31503">[**Slides**]</b>](https://storage.googleapis.com/yuke_profile/CCGrid21-YukeWang.pdf)
 
-+ <b style="color:blue">[ICASSP-2021]</b> 
++ <b >[ICASSP-2021]</b> 
 Boyuan Feng, **Yuke Wang**, Yufei Ding. <br/>
 ***Sparse Adversarial Attack on EEG-based Brain Computer Interface.*** 
 <br/>
@@ -79,7 +75,7 @@ Boyuan Feng, **Yuke Wang**, Yufei Ding. <br/>
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L15-L20)
 
 
-+ <b style="color:blue">[AAAI-2021]</b> 
++ <b >[AAAI-2021]</b> 
 Boyuan Feng, **Yuke Wang**, Yufei Ding. <br/>
 ***UAG: Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks.*** 
 <br/>
@@ -90,7 +86,7 @@ Boyuan Feng, **Yuke Wang**, Yufei Ding. <br/>
 
 
 
-+ <b style="color:blue">[PPoPP-2021] </b> 
++ <b >[PPoPP-2021] </b> 
 Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 <br/>
 ***EGEMM-TC: Accelerating Scientific Computing on Tensor Cores with Extended Precision.*** <br/>
@@ -101,7 +97,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 
 
 
-+ <b style="color:blue">[IPDPS-2021] </b> 
++ <b >[IPDPS-2021] </b> 
 **Yuke Wang**, Boyuan Feng, Yufei Ding. 
 <br/>
 ***DSXplore: Optimizing Convolutional Neural Networks via Sliding-Channel Convolutions***. 
@@ -115,7 +111,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 [<b style="color:#a31503">[**Video**]</b>](https://youtu.be/wvEexU_glPc)
 
 
-+ <b style="color:blue">[TCAD-2021] </b> 
++ <b >[TCAD-2021] </b> 
 **Yuke Wang**, Boyuan Feng, Gushu Li, Lei Deng, Yuan Xie, Yufei Ding. <br/>
 ***STPAcc: A Compiler-based Framework for Accelerating Distance Algorithms on CPU-FPGA Platforms.***<br/>
 *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
@@ -123,7 +119,7 @@ Boyuan Feng, **Yuke Wang**, Guoyang Chen, Weifeng Zhang, Yuan Xie, Yufei Ding.
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/TCAD21_STPAcc.pdf)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L78-L83)
 
-+ <b style="color:blue">[TCAD-2021] </b> 
++ <b >[TCAD-2021] </b> 
 Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, Lei Deng, Yufei Ding, Zidong Du, Yunji Chen, Yuan Xie. <br/>
 ***Rubik: A Hierarchical Architecture for Efficient Graph Learning***. <br/>
 *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems.*
@@ -131,7 +127,7 @@ Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mi
 [<b style="color:#a31503">[**Paper**]</b>](https://arxiv.org/pdf/2009.12495.pdf)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L64-L69)
 
-+ <b style="color:blue">[ICTAI-2020] </b> \*Boyuan Feng, \***Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding.  \*: equal contribution.<br/>
++ <b >[ICTAI-2020] </b> \*Boyuan Feng, \***Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding.  \*: equal contribution.<br/>
 ***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization.***
 <br/>
 *International Conference on Tools with Artificial Intelligence*.
@@ -139,7 +135,7 @@ Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mi
 [<b style="color:#a31503">[**Paper**]</b>](https://storage.googleapis.com/yuke_profile/ICTAI_2020.pdf)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L43-L48)
 
-+ <b style="color:blue">[ICML-2020] </b> 
++ <b >[ICML-2020] </b> 
 Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. <br/>
 ***Boosting Deep Neural Network Efficiency with Dual-Module Inference.*** <br/>
 *International Conference on Machine Learning*.
@@ -148,7 +144,7 @@ Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Y
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L50-L55)
 
 
-+ <b style="color:blue">[FCCM-2019] </b> 
++ <b >[FCCM-2019] </b> 
 **Yuke Wang**, Zhaorui Zeng, Boyuan Feng, Lei Deng, and Yufei Ding. <br/>
 ***KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA***. 
 <br/>
@@ -156,3 +152,5 @@ Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Y
 <br/>
 [<b style="color:#a31503">[**Poster**]</b>](https://arxiv.org/pdf/1905.09345.pdf)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/YukeWang96.github.io/blob/master/_publications/publication.bib#L57-L62)
+
+</div>
