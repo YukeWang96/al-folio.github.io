@@ -21,6 +21,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Yuke Wang is a fourth-year Doctor of Philosophy (Ph.D.) in computer science at the University of California, Santa Barbara (UCSB). He got his Bachelor of Engineering (B.E.) in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018.
+<p style="text-align: justify;"> 
+Yuke Wang is a fourth-year Doctor of Philosophy (Ph.D.) in <a href="https://www.cs.ucsb.edu">computer science</a> at University of California, Santa Barbara (<a href="https://ucsb.edu">UCSB</a>). 
+He got his Bachelor of Engineering (B.E.) in software engineering from University of Electronic Science and Technology of China (<a href="https://en.uestc.edu.cn/">UESTC</a>) in 2018.</p> 
 
-At UCSB, Yuke is working with Prof Yufei Ding. Yuke's research interests include high-performance computing and deep learning algorithms. His recent ongoing projects cover graph neural network (GNN) optimization and its acceleration on GPUs.
+<p style="text-align: justify;"> 
+At UCSB, Yuke is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>.
+Yuke's research interests include high-performance computing and deep learning algorithms. His recent ongoing projects cover graph neural network (GNN) optimization and its acceleration on GPUs.
+</p>
