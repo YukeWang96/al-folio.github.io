@@ -30,7 +30,7 @@ At UCSB, Yuke is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding
 Yuke's research interests include high-performance computing and deep learning algorithms. His recent ongoing projects cover graph neural network (GNN) optimization and its acceleration on GPUs.
 </p>
 
-[CV](https://storage.googleapis.com/yuke_profile/CV_Yuke_Wang.pdf)[Google Scholar](https://scholar.google.com/citations?user=RL3Q9jUAAAAJ&hl=en&authuser=1)[Email](mailto:yuke_wang@ucsb.edu)[Github](https://github.com/YukeWang96)
+[[CV](https://storage.googleapis.com/yuke_profile/CV_Yuke_Wang.pdf)][[Google Scholar](https://scholar.google.com/citations?user=RL3Q9jUAAAAJ&hl=en&authuser=1)][[Email](mailto:yuke_wang@ucsb.edu)][[Github](https://github.com/YukeWang96)]
 
 ## News
 ---------
