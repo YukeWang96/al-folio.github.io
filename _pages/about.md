@@ -35,10 +35,10 @@ Yuke's research interests include high-performance computing and deep learning a
 ## News
 ---------
 + [11/23/21] Received the 2022 - 2023 NVIDIA Graduate Fellowship. Thanks to NVIDIA. 
-+ [11/16/21] Our QGTC paper has been accepted to PPoPP’22. code is open-sourced.
-+ [06/22/21] Our APNN-TC paper has been accepted to SC’21. code is open-sourced.
++ [11/16/21] Our QGTC paper has been accepted to PPoPP’22. [code](https://github.com/YukeWang96/PPoPP22_QGTC.git) is open-sourced.
++ [06/22/21] Our APNN-TC paper has been accepted to SC’21. [code](https://github.com/BoyuanFeng/APNN-TC.git) is open-sourced.
 + [04/26/21] Our Palleon paper has been accepted to USENIX ATC’21.
-+ [03/16/21] Our GNNAdvisor paper has been accepted to OSDI’21. code is open-sourced.
++ [03/16/21] Our GNNAdvisor paper has been accepted to OSDI’21. [code](https://github.com/YukeWang96/OSDI21_AE) is open-sourced.
 
 ## Internship
 ---------
