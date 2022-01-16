@@ -13,6 +13,9 @@ nav: true
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %} -->
+
+2022
+----------------------
 + <b >[PPoPP-2022]</b>
 **\*Yuke Wang**, \*Boyuan Feng, Yufei Ding. \*: equal contribution<br/>
 ***QGTC: Accelerating Quantized GNN via GPU Tensor Core*** <br/>
@@ -22,6 +25,8 @@ nav: true
 [<b style="color:#a31503">[**Code**]</b>](https://github.com/YukeWang96/PPoPP22_QGTC.git)
 
 
+2021
+----------------------
 + <b >[CIKM-2021 (Spotlight)]</b>
 **Yuke Wang**, Boyuan Feng, Xueqiao Peng, Yufei Ding. <br/>
 ***An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks*** <br/>
@@ -129,6 +134,9 @@ Xiaobing Chen, **Yuke Wang**, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mi
 [<b style="color:#a31503">[**Paper**]</b>](https://arxiv.org/pdf/2009.12495.pdf)
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L64-L69)
 
+
+2020
+----------------------
 + <b >[ICTAI-2020] </b> \*Boyuan Feng, \***Yuke Wang**, Xu Li, Shu Yang, Xueqiao Peng, Yufei Ding.  \*: equal contribution.<br/>
 ***SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization.***
 <br/>
@@ -146,6 +154,8 @@ Liu Liu, Lei Deng, Zhaodong Chen, **Yuke Wang**, Shuangchen Li, Jingwei Zhang, Y
 [<b style="color:#a31503">[**Bibtex**]</b>](https://github.com/YukeWang96/personal_page/blob/master/_publications/publication.bib#L50-L55)
 
 
+2019
+----------------------
 + <b >[FCCM-2019] </b> 
 **Yuke Wang**, Zhaorui Zeng, Boyuan Feng, Lei Deng, and Yufei Ding. <br/>
 ***KPynq: A Work-Efficient Triangle-Inequality based K-means on FPGA***. 

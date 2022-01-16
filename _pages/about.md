@@ -14,12 +14,6 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<!-- 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 <p style="text-align: justify;"> 
 Yuke Wang is a fourth-year Doctor of Philosophy (Ph.D.) in <a href="https://www.cs.ucsb.edu">computer science</a> at University of California, Santa Barbara (<a href="https://ucsb.edu">UCSB</a>). 
@@ -47,6 +41,7 @@ Yuke's research interests include high-performance computing and deep learning a
 
 ## Professional Services 
 ---------
++ [01/2022] EuroSys’22 Artifact Evaluation Committee Member 					
 + [11/2021] ASPLOS’22  Artifact Evaluation Committee Member 					
 + [10/2021] SOSP’21 Graduate Student Mentor 								
 + [10/2021] Artificial Intelligence Review Paper Reviewer 						
