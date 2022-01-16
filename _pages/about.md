@@ -36,6 +36,7 @@ Yuke's research interests include high-performance computing and deep learning a
 
 ## Internship
 ---------
++ [06/2022-09/2022] Research Intern, NVIDIA.
 + [06/2021-09/2021] High-Performance Engineering Intern, NVIDIA.
 + [07/2020-09/2020] Research Intern, Alibaba US.
 
